@@ -1,0 +1,4 @@
+Created the directory 0x03-sass_scss
+Move to that directory
+Run npm run install sass -v 3.7.4
+create the file 0-installation-script with the guide to install sass
